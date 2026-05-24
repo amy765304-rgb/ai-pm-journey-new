@@ -1,2 +1,2 @@
 # ai-pm-journey-new
- AI PM Amy
+ AI PM Amy Day 1
