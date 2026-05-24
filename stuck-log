@@ -1,0 +1,11 @@
+# 卡点记录
+
+## 2026-05-15 Day 1
+
+**问题：** SSH 连接 GitHub 失败，报错 Host key verification failed
+
+**原因：** 当前网络屏蔽了 GitHub 的 SSH 端口
+
+**解决方案：** 明天换手机热点重试
+
+**状态：** 待解决
